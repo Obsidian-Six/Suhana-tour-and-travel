@@ -106,7 +106,7 @@ const Footer = () => {
         <div className="flex items-center justify-center">
           <span className="text-sm text-white ">
             Copyright@2024 All Right Reserved by{" "}
-            <a href="/">IgrowMyBiz</a> 
+            <a href="/" title="aniket">IgrowMyBiz</a> 
           </span>
         </div>
       </div>
